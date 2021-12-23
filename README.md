@@ -1,1 +1,1 @@
-#  Sistema  administrativo de um restaurante ,  usando  PHP puro  e padrão de desenvolvimento MVC
+#  Sistema  administrativo de um restaurante desenvolvido durantes as aulas de WEB do curso de Ciência da Computação 
